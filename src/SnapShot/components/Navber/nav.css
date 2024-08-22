@@ -1,0 +1,14 @@
+.color{
+    background-image: linear-gradient(to bottom, orange,purple);
+}
+ul li{
+    display: inline-block;
+    padding: 15px;
+    color: snow;
+    font-weight: 500;
+    cursor: pointer;
+}
+.navTitle{
+    border: 1px double white;
+    padding: 5px;
+}
